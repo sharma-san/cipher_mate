@@ -1,5 +1,5 @@
-# CASK
-CASK is a cipher Algorithm, not based on a single key/password but multiple security features, each of which is independent and must be correct to decipher the message
+# Cipher-Mate
+Cipher-Mate is a cipher Algorithm, not based on a single key/password but multiple security features, each of which is independent and must be correct to decipher the message
 
 Only main.py file is essential.
 Python libraries required: tkinter, customtkinter, random
